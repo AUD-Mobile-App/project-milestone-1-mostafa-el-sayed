@@ -3,6 +3,7 @@
     package="com.mustafa.mostafa.mostafaproject">
 
     <application
+        android:name="com.mustafa.mostafa.mostafaproject.Global"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -16,6 +17,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".NewItemActivity"></activity>
     </application>
 
 </manifest>

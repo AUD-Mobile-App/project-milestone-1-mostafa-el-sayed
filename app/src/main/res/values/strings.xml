@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MostafaProject</string>
+    <string name="app_name">Custom Bucket List</string>
+    <string name="itemTitleHint">Item Title</string>
+    <string name="itemDescriptionHint">Describe your item</string>
+    <string name="saveButtonTitle">Save</string>
+    <string name="emptyFieldsToast">Please fill all entries</string>
+
 </resources>
